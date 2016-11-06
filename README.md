@@ -10,7 +10,7 @@ JavaScript.
 ## Prerequisites
 
 -   [ga-wdi-boston/js-array-methods](https://github.com/ga-wdi-boston/js-array-methods)
--   [ga-wdi-boston/ruby-vs-js-arrays](https://github.com/ga-wdi-boston/ruby-vs-js-arrays)
+-   [ga-wdi-boston/ruby-arrays](https://github.com/ga-wdi-boston/ruby-arrays)
 
 ## Instructions
 
