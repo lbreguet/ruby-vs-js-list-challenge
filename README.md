@@ -20,8 +20,8 @@ JavaScript.
 1.  Create and checkout a new branch to work on.
 1.  Fulfill the listed requirements.
 
-Starter code is available in [`lib/challenge.js`](lib/challenge.js) and
-[`lib/challenge.rb`](lib/challenge.rb). A pull request is not required, but it
+Starter code is available in [`lib/challenge.js`](lib/challenge.js),
+[`lib/challenge.rb`](lib/challenge.rb), and, if you wish to do the bonus, [`lib/challenge.py`](lib/challenge.py). A pull request is not required, but it
 is necessary if you want a code review.
 
 You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
