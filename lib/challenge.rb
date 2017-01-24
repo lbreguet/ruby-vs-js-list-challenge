@@ -1,15 +1,19 @@
-def all?
+# Add your function parameters in between the parentheses.
+def all?()
   # Your function body here.
 end
 
-def any?
+# Add your function parameters in between the parentheses.
+def any?()
   # Your function body here.
 end
 
-def none?
+# Add your function parameters in between the parentheses.
+def none?()
   # Your function body here.
 end
 
-def one?
+# Add your function parameters in between the parentheses.
+def one?()
   # Your function body here.
 end

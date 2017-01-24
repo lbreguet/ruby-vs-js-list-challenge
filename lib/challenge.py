@@ -1,14 +1,18 @@
+# Add your function parameters in between the parentheses.
 def all():
-    # Your code here.
+    # Your function body here.
 
 
+# Add your function parameters in between the parentheses.
 def any():
-    # Your code here.
+    # Your function body here.
 
 
+# Add your function parameters in between the parentheses.
 def none():
-    # Your code here.
+    # Your function body here.
 
 
+# Add your function parameters in between the parentheses.
 def one():
-    # Your code here.
+    # Your function body here.
