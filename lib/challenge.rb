@@ -1,15 +1,15 @@
-def all
-  # Your code here.
+def all?
+  # Your function body here.
 end
 
-def any
-  # Your code here.
+def any?
+  # Your function body here.
 end
 
-def none
-  # Your code here.
+def none?
+  # Your function body here.
 end
 
-def one
-  # Your code here.
+def one?
+  # Your function body here.
 end
