@@ -45,6 +45,16 @@ Complete the following exercises in Ruby, JavaScript, and Python:
 -   [True for Just One?](https://www.codewars.com/kata/enumerable-magic-number-5-true-for-just-one)
 -   [True for All?](https://www.codewars.com/kata/enumerable-magic-number-1-true-for-all)
 
+## Testing
+
+To run tests for all challenge functions in each language:
+
+| Language | Command |
+| --- | --- |
+| JavaScript | grunt test |
+| Ruby | rake test |
+| Python | python spec/challenge_spec.py -v |
+
 ## [License](LICENSE)
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
