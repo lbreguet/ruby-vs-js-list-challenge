@@ -21,7 +21,8 @@ JavaScript.
 1.  Fulfill the listed requirements.
 
 Starter code is available in [`lib/challenge.js`](lib/challenge.js),
-[`lib/challenge.rb`](lib/challenge.rb), and, if you wish to do the bonus, [`lib/challenge.py`](lib/challenge.py). A pull request is not required, but it
+[`lib/challenge.rb`](lib/challenge.rb), and, if you wish to do the bonus,
+[`lib/challenge.py`](lib/challenge.py). A pull request is not required, but it
 is necessary if you want a code review.
 
 You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
@@ -58,5 +59,5 @@ To run tests for all challenge functions in each language:
 ## [License](LICENSE)
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
+1.  All software code is licensed undˇer GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
