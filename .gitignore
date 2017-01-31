@@ -270,3 +270,7 @@ bower.json
 /libpeerconnection.log
 npm-debug.log
 testem.log
+
+# python
+__pycache__
+*.pyc
